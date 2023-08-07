@@ -1,0 +1,3 @@
+work/producer_spawn.o: producer_spawn.c ../../../include/lab2-api.h \
+ ../../../include/usertraps.h ../../../include/misc.h \
+ ../include/spawn.h

@@ -1,0 +1,2 @@
+work/reaction3.o: reaction3.c ../../../include/usertraps.h \
+ ../../../include/misc.h ../include/spawn.h
